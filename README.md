@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/tigefa4u)
+![Metrics](https://metrics.lecoq.io/tigefa4u?template=classic&config.timezone=Asia%2FJakarta)
 
 <hr />
 
