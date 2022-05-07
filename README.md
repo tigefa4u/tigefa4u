@@ -1,3 +1,7 @@
+![Metrics](https://metrics.lecoq.io/tigefa4u)
+
+<hr />
+
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=tigefa&hide_border=true&theme=solarized-dark)](https://wakatime.com/@tigefa)
 
 <hr />
