@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/tigefa4u?template=classic&tweets=1&base.indepth=false&base.hireable=false&tweets.attachments=false&tweets.limit=1&tweets.user=sugengtigefa&config.timezone=Asia%2FJakarta)
+![Metrics](/github-metrics.svg)
 
 <hr />
 
