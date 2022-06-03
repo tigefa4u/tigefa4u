@@ -1,0 +1,47 @@
+image: gitpod/workspace-full:2022-05-25-08-50-33
+
+tasks:
+  - command: |
+      nvm install lts/fermium
+      npm install -g npm
+      npm install --location=global @cloudflare/wrangler
+
+vscode:
+  extensions:
+    - ms-azuretools.vscode-docker
+    - ms-vscode.vscode-node-azure-pack
+    - bungcip.better-toml
+    - zamerick.vscode-caddyfile-syntax
+    - EditorConfig.EditorConfig
+    - GitHub.vscode-pull-request-github
+    - GitHub.github-vscode-theme
+    - bierner.github-markdown-preview
+    - bierner.markdown-checkbox
+    - bierner.markdown-emoji
+    - bierner.markdown-footnotes
+    - bierner.markdown-mermaid
+    - bierner.markdown-preview-github-styles
+    - bierner.markdown-yaml-preamble
+    - Gruntfuggly.todo-tree
+    - WakaTime.vscode-wakatime
+    - timonwong.shellcheck
+    - GitLab.gitlab-workflow
+    - PKief.material-icon-theme
+    - ms-python.python
+    - rebornix.ruby
+    - golang.go
+    - silvenon.mdx
+    - william-voyek.vscode-nginx
+    - abumalick.vscode-nvm
+    - amazonwebservices.aws-toolkit-vscode
+    - arcticicestudio.nord-visual-studio-code
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+    pullRequestsFromForks: true
+    addCheck: true
+    addComment: true
+    addBadge: true
