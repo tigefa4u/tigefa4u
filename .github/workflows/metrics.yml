@@ -32,3 +32,7 @@ jobs:
           plugin_tweets_limit: 1
           plugin_rss: true
           plugin_rss_source: https://tigefa.my.id/atom.xml
+          plugin_anilist: true
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_user: tigefa
