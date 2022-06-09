@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: true
+          repositories_forks: true
           config_twemoji: true
           config_octicon: true
           plugin_wakatime: true
