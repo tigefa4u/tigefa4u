@@ -18,3 +18,5 @@ jobs:
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: tigefa
+          plugin_wakatime_days: 14
+          plugin_wakatime_languages_other: true
