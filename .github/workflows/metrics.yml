@@ -15,5 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_tweets: true
-          plugin_tweets_user: sugengtigefa
+          plugin_wakatime: true
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: tigefa
