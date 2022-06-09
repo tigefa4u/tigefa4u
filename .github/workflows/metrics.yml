@@ -15,6 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base_indepth: true
           config_twemoji: true
           config_octicon: true
           plugin_wakatime: true
