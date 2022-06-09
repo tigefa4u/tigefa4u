@@ -24,3 +24,4 @@ jobs:
           plugin_wakatime_user: tigefa
           plugin_wakatime_days: 14
           plugin_wakatime_languages_other: true
+          plugin_traffic: true
