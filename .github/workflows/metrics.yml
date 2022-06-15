@@ -15,8 +15,9 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Jakarta
           base_indepth: true
-          base: header, activity, community, repositories, metadata, wakatime, tweets, anilist
+          config_order: header, activity, community, repositories, metadata, wakatime, tweets, anilist
           repositories_forks: true
           repositories_batch: 300
           config_twemoji: true
