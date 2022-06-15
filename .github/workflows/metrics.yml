@@ -17,9 +17,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Jakarta
           base_indepth: true
-          base: header
-          config_order: base.header, wakatime, tweets, anilist
+          base: header, activity, repositories
+          config_order: base.header, base.repositories, base.activity, wakatime, tweets, anilist
           config_display: large
+          config_padding: 10
           repositories_forks: true
           repositories_batch: 300
           config_twemoji: true
