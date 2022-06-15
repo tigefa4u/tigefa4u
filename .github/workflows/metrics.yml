@@ -23,7 +23,7 @@ jobs:
           base: header, repositories
           config_order: base.header, base.repositories, wakatime, tweets, anilist
           config_display: large
-          config_padding: 10
+          config_padding: 30
           repositories_forks: true
           repositories_batch: 300
           config_twemoji: true
