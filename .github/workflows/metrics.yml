@@ -22,7 +22,6 @@ jobs:
           base_indepth: true
           base: header, repositories
           config_order: base.header, base.repositories, wakatime, tweets, anilist
-          config_display: large
           repositories_forks: true
           repositories_batch: 300
           config_twemoji: true
@@ -39,6 +38,6 @@ jobs:
           plugin_tweets_limit: 1
           plugin_anilist: true
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
+          plugin_anilist_sections: favorites, watching, characters
           plugin_anilist_user: tigefa
           plugin_anilist_limit: 1
