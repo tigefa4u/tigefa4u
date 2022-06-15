@@ -16,9 +16,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Jakarta
+          use_prebuilt_image: yes
+          optimize: svg
+          experimental_features: --optimize-svg
           base_indepth: true
-          base: header, activity, repositories
-          config_order: base.header, base.repositories, base.activity, wakatime, tweets, anilist
+          base: header, repositories
+          config_order: base.header, base.repositories, wakatime, tweets, anilist
           config_display: large
           config_padding: 10
           repositories_forks: true
