@@ -12,11 +12,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base_indepth: true
-          base: header, activity, community, repositories, metadata, plugin_wakatime, plugin_tweets, plugin_anilist
+          base: header, activity, community, repositories, metadata, wakatime, tweets, anilist
           repositories_forks: true
           repositories_batch: 300
           config_twemoji: true
