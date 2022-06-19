@@ -16,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Jakarta
+          config_display: large
           use_prebuilt_image: yes
           optimize: svg
           experimental_features: --optimize-svg
