@@ -25,12 +25,14 @@ vscode:
     - WakaTime.vscode-wakatime
     - timonwong.shellcheck
     - GitLab.gitlab-workflow
+    - PKief.markdown-checkbox
     - PKief.material-icon-theme
+    - PKief.material-product-icons
     - ms-python.python
     - rebornix.ruby
     - golang.go
     - silvenon.mdx
-    - william-voyek.vscode-nginx
+    - DavidAnson.vscode-markdownlint
     - abumalick.vscode-nvm
     - amazonwebservices.aws-toolkit-vscode
     - arcticicestudio.nord-visual-studio-code
@@ -44,3 +46,4 @@ github:
     addCheck: true
     addComment: true
     addBadge: true
+    addLabel: true
