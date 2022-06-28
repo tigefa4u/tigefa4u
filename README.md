@@ -2,8 +2,8 @@
 
 <hr />
 
-[![visitors](https://visitor-badge.deta.dev/badge?page_id=tigefa4u.tigefa4u)](https://visitor-badge.deta.dev)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftigefa4u&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![visitors](https://visitor-badge.deta.dev/badge?page_id=tigefa4u.tigefa4u)](https://visitor-badge.deta.dev)
 
 <hr />
 
