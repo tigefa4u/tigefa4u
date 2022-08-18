@@ -2,7 +2,7 @@ image: gitpod/workspace-full:latest
 
 tasks:
   - command: |
-      nvm install lts/fermium
+      nvm install lts/*
       npm install -g npm
       npm install --location=global @cloudflare/wrangler
 
