@@ -13,3 +13,9 @@
 
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/4066?logoColor=white%26project=%26recentMS=0%26showProject=false)
 [![wakatime](https://wakatime.com/badge/user/d91ac116-3b65-4011-a8b7-dde470611f04.svg)](https://wakatime.com/@tigefa)
+
+<hr \>
+
+![](https://dcbadge.vercel.app/api/shield/213818453071495168?style=social)
+[![](https://dcbadge.vercel.app/api/server/CbktyPE?style=social)](https://discord.gg/CbktyPE)
+[![](https://dcbadge.vercel.app/api/shield/1026189210148929656?bot=true&style=social)](https://discord.com/oauth2/authorize?client_id=1026189210148929656&scope=bot)
