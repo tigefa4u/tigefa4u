@@ -17,5 +17,4 @@
 <hr \>
 
 [![](https://dcbadge.vercel.app/api/shield/213818453071495168?style=social)](https://s.id/tigefa-discord)
-[![](https://dcbadge.vercel.app/api/server/CbktyPE?style=social)](https://discord.gg/CbktyPE)
-[![](https://img.shields.io/badge/discord.bot-tigefa.red-blue?style=social&logo=discord)](https://discord.com/oauth2/authorize?client_id=1026189210148929656&scope=bot)
+[![](https://dcbadge.vercel.app/api/server/Ya2pmcnTPF?style=social)](https://discord.gg/Ya2pmcnTPF)
