@@ -8,5 +8,5 @@
 
 <hr \>
 
-[![](https://dcbadge.vercel.app/api/shield/213818453071495168?style=social)]([https://s.id/tigefa-cord](https://discord.com/users/213818453071495168)
+[![](https://dcbadge.vercel.app/api/shield/213818453071495168?style=social)](https://discord.com/users/213818453071495168)
 [![](https://dcbadge.vercel.app/api/server/Ya2pmcnTPF?style=social)](https://s.id/tigefa-cord)
