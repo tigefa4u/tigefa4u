@@ -1,5 +1,5 @@
 ![Metrics](/github-metrics.svg)
-[![](https://discord.c99.nl/widget/theme-4/213818453071495168.png)](https://discord.com/users/213818453071495168)
+[![](https://discord.c99.nl/widget/theme-3/213818453071495168.png)](https://discord.com/users/213818453071495168)
 
 <hr />
 
