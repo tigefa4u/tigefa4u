@@ -23,9 +23,8 @@ jobs:
           base_indepth: true
           base: header, repositories
           config_order: base.header, base.repositories, wakatime, anilist
-          repositories_forks: true
+          plugin_traffic: true
           repositories_batch: 300
-          config_twemoji: true
           config_octicon: true
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
