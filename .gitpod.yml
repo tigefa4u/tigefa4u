@@ -10,7 +10,6 @@ vscode:
   extensions:
     - ms-azuretools.vscode-docker
     - bungcip.better-toml
-    - zamerick.vscode-caddyfile-syntax
     - EditorConfig.EditorConfig
     - GitHub.vscode-pull-request-github
     - GitHub.github-vscode-theme
@@ -29,9 +28,7 @@ vscode:
     - PKief.material-icon-theme
     - PKief.material-product-icons
     - ms-python.python
-    - rebornix.ruby
     - golang.go
-    - silvenon.mdx
     - DavidAnson.vscode-markdownlint
     - abumalick.vscode-nvm
     - amazonwebservices.aws-toolkit-vscode
