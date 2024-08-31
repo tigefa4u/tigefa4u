@@ -28,7 +28,7 @@ jobs:
           config_octicon: true
           plugin_wakatime: true
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_user: tigefa
+          plugin_wakatime_user: tigefa4u
           plugin_wakatime_days: 365
           plugin_wakatime_languages_other: true
           plugin_anilist: true
