@@ -4,5 +4,4 @@
 <hr />
 
 [![](https://dcbadge.vercel.app/api/server/Ya2pmcnTPF?style=social)](https://s.id/tigefa-cord)
-[![wakatime](https://wakatime.com/badge/user/d91ac116-3b65-4011-a8b7-dde470611f04.svg)](https://wakatime.com/@tigefa)
 [![Metrics](https://github.com/tigefa4u/tigefa4u/actions/workflows/metrics.yml/badge.svg)](https://github.com/tigefa4u/tigefa4u/actions/workflows/metrics.yml)
