@@ -23,7 +23,7 @@ jobs:
           base_indepth: true
           base: header, repositories
           config_order: base.header, base.repositories, wakatime, anilist, steam
-          plugin_traffic: true
+          plugin_traffic: false
           repositories_batch: 300
           config_octicon: true
           plugin_wakatime: true
