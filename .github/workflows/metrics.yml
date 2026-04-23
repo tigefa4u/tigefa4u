@@ -26,7 +26,7 @@ jobs:
           plugin_traffic: false
           repositories_batch: 300
           config_octicon: true
-          plugin_wakatime: true
+          plugin_wakatime: false
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: tigefa
           plugin_wakatime_days: 365
@@ -37,5 +37,5 @@ jobs:
           plugin_anilist_user: tigefa
           plugin_anilist_limit: 1
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: no
+          plugin_steam: false
           plugin_steam_user: ${{ secrets.STEAM_USER_ID }}
