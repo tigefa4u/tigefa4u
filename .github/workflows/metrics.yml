@@ -18,8 +18,8 @@ jobs:
           config_timezone: Asia/Jakarta
           config_display: large
           use_prebuilt_image: yes
-          optimize: svg
-          experimental_features: --optimize-svg
+#          optimize: svg
+#          experimental_features: --optimize-svg
           base_indepth: true
           base: header, repositories
           config_order: base.header, base.repositories, wakatime, anilist, steam
